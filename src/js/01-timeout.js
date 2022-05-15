@@ -34,3 +34,4 @@ console.log(shouldCancelTimer);
 if (shouldCancelTimer) {
   clearTimeout(timerId);
 }
+console.log('hey');
